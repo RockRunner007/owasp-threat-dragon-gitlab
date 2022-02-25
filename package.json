@@ -33,7 +33,7 @@
     "passport": "0.3.2",
     "passport-github": "1.1.0",
     "passport-gitlab2": "^3.0.0",
-    "pug": "2.0.0-beta11",
+    "pug": "2.0.4",
     "pug-bootstrap": "0.0.11",
     "request": "^2.83.0",
     "serve-favicon": "2.4.1"
